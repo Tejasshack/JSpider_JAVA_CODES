@@ -33,7 +33,7 @@ public class Test {
         return;                         /*Inside void methods it totally fine that we can use*/
     }
 
-    
+
     
 
 
@@ -43,4 +43,5 @@ public class Test {
       test();
         
     }
+    
 }
